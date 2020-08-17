@@ -15,7 +15,7 @@ VEGA手拍唱词插件
 将压缩包内 kindkind.App.VEGAS.Ext.SetCC.v1.2.dll 文件
 
 移动到 C:\ProgramData\VEGAS Pro\Application Extensions\ 
-或 (我的文档)C:\Users\%USERNAME%\Documents\Vegas Application Extensions 目录下
+或 (我的文档)C:\Users\\%USERNAME%\Documents\Vegas Application Extensions 目录下
 
 （如果系统不在C盘，请在系统盘目录下查找文件夹
 没有 Application Extensions 或 Vegas Application Extensions 目录请新建）。
