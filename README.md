@@ -2,7 +2,7 @@
 VEGAS手拍唱词(打时间轴)扩展插件 / VEGAS Set CC(Subtitles) Application Extensions
 
 
-Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Application Extensions\" or "C:\Users\%USERNAME%\Documents\Vegas Application Extensions", 
+Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Application Extensions\" or "C:\Users\\%USERNAME%\Documents\Vegas Application Extensions", 
 
 Run VEGAS, Menu View-->Extensions-->Set CC Tools.
 
