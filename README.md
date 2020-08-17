@@ -2,7 +2,7 @@
 VEGAS手拍唱词(打时间轴)扩展插件 / VEGAS Set CC(Subtitles) Application Extensions
 
 
-Moved "kindkind.App.VEGAS.Ext.SetCC.v1.0.dll" To "C:\ProgramData\VEGAS Pro\Application Extensions\", 
+Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Application Extensions\" or "C:\Users\%USERNAME%\Documents\Vegas Application Extensions", 
 
 Run VEGAS, Menu View-->Extensions-->Set CC Tools.
 
@@ -12,17 +12,23 @@ Run VEGAS, Menu View-->Extensions-->Set CC Tools.
 VEGA手拍唱词插件
 
 
-将压缩包内 kindkind.App.VEGAS.Ext.SetCC.v1.0.dll 文件
+将压缩包内 kindkind.App.VEGAS.Ext.SetCC.v1.2.dll 文件
 
-移动到 C:\ProgramData\VEGAS Pro\Application Extensions\ 目录下
+移动到 C:\ProgramData\VEGAS Pro\Application Extensions\ 
+或 (我的文档)C:\Users\%USERNAME%\Documents\Vegas Application Extensions 目录下
 
-（如果系统不在C盘，请在系统盘目录下查找文件夹）。
+（如果系统不在C盘，请在系统盘目录下查找文件夹
+没有 Application Extensions 或 Vegas Application Extensions 目录请新建）。
 
 
 启动VGEAS软件，在视图菜单的扩展下可找到该插件。
 
 
-插件设置了3个系统全局快捷键：
+插件设置了5个系统全局快捷键：
+
+Alt+\ = 切换唱词插件与时间线    
+
+Alt+' = 设置唱词起始点    
 
 Alt+/ = 设置唱词    
 
@@ -61,4 +67,4 @@ Alt+↓ = 跳过一行唱词
 WWW: kindkind.com
 
               
-       2020年7月
+       2020年8月
