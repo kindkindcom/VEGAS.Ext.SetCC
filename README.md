@@ -6,20 +6,40 @@ Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Appli
 
 Run VEGAS, Menu View-->Extensions-->Set CC Tools.
 
+
 Thanks for using the self-made subtitles added to the timeline tool by kindkind.
+
 This plug-in can only be used in VEGAS NLE, This plugin is to simplify the process, 
+
 of making text documents into video subtitles with hotkeys, 
+
 This tool does not change the original habits of VEGAS NLE, 
-Make full use of the selection and region markers functions of VEGAS NLE, Achieved the operation of continuously adding markers.
+
+Make full use of the selection and region markers functions of VEGAS NLE, 
+
+Achieved the operation of continuously adding markers.
+
+
+
 
 Tool default shortcut keys:
+
 Alt+'  = [Set the starting position of subtitles]
+
 Alt+/  = [Set subtitles] (or prompt mark)
+
 Alt+↓  = [Skip a line of subtitles]
+
 Alt+↑  = [Reset a line of subtitles]
+
 Alt+\  = [Switch between InputBox and timeline]
 
+
+
+
+
 Fully use hotkey operation, almost can work without using the mouse.
+
 
 Please forgive my poor English spelling, which caused some confusion in the English concept on the tool. They are all composed of the most basic programming vocabulary.
 
