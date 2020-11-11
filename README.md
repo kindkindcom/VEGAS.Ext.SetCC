@@ -27,7 +27,7 @@ Achieved the operation of continuously adding markers.
 
 
 ```
-Tool default shortcut keys:
+Tool default system global hotkey (can be disabled and customized in VEGAS):
 
   Alt+'  = [Set the starting position of subtitles]      
 
