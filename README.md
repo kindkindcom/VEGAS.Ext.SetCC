@@ -2,14 +2,17 @@
 VEGAS手拍唱词(打时间轴)扩展插件 / VEGAS Set CC(Subtitles) Application Extensions
 
 
-Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Application Extensions\" or "C:\Users\\%USERNAME%\Documents\Vegas Application Extensions", 
+Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Application Extensions\" 
+
+or "C:\Users\\%USERNAME%\Documents\Vegas Application Extensions", 
+
 
 Run VEGAS, Menu View-->Extensions-->Set CC Tools.
 
 
 Thanks for using the self-made subtitles added to the timeline tool by kindkind.
 
-This plug-in can only be used in VEGAS NLE, This plugin is to simplify the process, 
+This plug-in can only be used in VEGAS NLE (requires 16 or above), This plugin is to simplify the process, 
 
 of making text documents into video subtitles with hotkeys, 
 
@@ -40,7 +43,9 @@ Tool default shortcut keys:
 Fully use hotkey operation, almost can work without using the mouse.
 
 
-Please forgive my poor English spelling, which caused some confusion in the English concept on the tool. They are all composed of the most basic programming vocabulary.
+Please forgive my poor English spelling, which caused some confusion in the English concept on the tool. 
+
+They are all composed of the most basic programming vocabulary.
 
 ************************************************************************
 VEGA手拍唱词插件
@@ -49,9 +54,11 @@ VEGA手拍唱词插件
 将压缩包内 kindkind.App.VEGAS.Ext.SetCC.v1.2.dll 文件
 
 移动到 C:\ProgramData\VEGAS Pro\Application Extensions\ 
+
 或 (我的文档)C:\Users\\%USERNAME%\Documents\Vegas Application Extensions 目录下
 
 （如果系统不在C盘，请在系统盘目录下查找文件夹
+
 没有 Application Extensions 或 Vegas Application Extensions 目录请新建）。
 
 
