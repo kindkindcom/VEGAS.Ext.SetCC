@@ -24,16 +24,15 @@ Achieved the operation of continuously adding markers.
 
 Tool default shortcut keys:
 
-Alt+'  = [Set the starting position of subtitles]
+* Alt+'  = [Set the starting position of subtitles]      
 
-Alt+/  = [Set subtitles] (or prompt mark)
+* Alt+/  = [Set subtitles] (or prompt mark)      
 
-Alt+↓  = [Skip a line of subtitles]
+* Alt+↓  = [Skip a line of subtitles]       
 
-Alt+↑  = [Reset a line of subtitles]
+* Alt+↑  = [Reset a line of subtitles]        
 
-Alt+\  = [Switch between InputBox and timeline]
-
+* Alt+\  = [Switch between InputBox and timeline]         
 
 
 
@@ -59,17 +58,20 @@ VEGA手拍唱词插件
 启动VGEAS软件，在视图菜单的扩展下可找到该插件。
 
 
+
+
 插件设置了5个系统全局快捷键：
 
-Alt+\ = 切换唱词插件与时间线    
+* Alt+\ = 切换唱词插件与时间线    
 
-Alt+' = 设置唱词起始点    
+* Alt+' = 设置唱词起始点    
 
-Alt+/ = 设置唱词    
+* Alt+/ = 设置唱词    
 
-Alt+↑ = 回置一行唱词    
+* Alt+↑ = 回置一行唱词    
 
-Alt+↓ = 跳过一行唱词
+* Alt+↓ = 跳过一行唱词
+
 
 
 
