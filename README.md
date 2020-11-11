@@ -6,7 +6,10 @@ Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Appli
 
 or "C:\Users\\%USERNAME%\Documents\Vegas Application Extensions", 
 
-* Run VEGAS, Menu View-->Extensions-->Set CC Tools.
+
+```
+  Run VEGAS, Menu View-->Extensions-->Set CC Tools.
+```
 
 
 Thanks for using the self-made subtitles added to the timeline tool by kindkind.
@@ -23,20 +26,19 @@ Achieved the operation of continuously adding markers.
 
 
 
-
+```
 Tool default shortcut keys:
 
-* Alt+'  = [Set the starting position of subtitles]      
+  Alt+'  = [Set the starting position of subtitles]      
 
-* Alt+/  = [Set subtitles] (or prompt mark)      
+  Alt+/  = [Set subtitles] (or prompt mark)      
 
-* Alt+↓  = [Skip a line of subtitles]       
+  Alt+↓  = [Skip a line of subtitles]       
 
-* Alt+↑  = [Reset a line of subtitles]        
+  Alt+↑  = [Reset a line of subtitles]        
 
-* Alt+\  = [Switch between InputBox and timeline]         
-
-
+  Alt+\  = [Switch between InputBox and timeline]         
+```
 
 
 Fully use hotkey operation, almost can work without using the mouse.
@@ -45,6 +47,7 @@ Fully use hotkey operation, almost can work without using the mouse.
 Please forgive my poor English spelling, which caused some confusion in the English concept on the tool. 
 
 They are all composed of the most basic programming vocabulary.
+
 
 ************************************************************************
 VEGA手拍唱词插件
@@ -65,19 +68,19 @@ VEGA手拍唱词插件
 
 
 
-
+```
 插件设置了5个系统全局快捷键：
 
-* Alt+\ = 切换唱词插件与时间线    
+  Alt+' = 设置唱词起始点    
 
-* Alt+' = 设置唱词起始点    
+  Alt+/ = 设置唱词    
 
-* Alt+/ = 设置唱词    
+  Alt+↑ = 回置一行唱词    
 
-* Alt+↑ = 回置一行唱词    
-
-* Alt+↓ = 跳过一行唱词
-
+  Alt+↓ = 跳过一行唱词
+  
+  Alt+\ = 切换唱词插件与时间线    
+```
 
 
 
