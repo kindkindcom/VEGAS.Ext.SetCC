@@ -6,8 +6,7 @@ Moved "kindkind.App.VEGAS.Ext.SetCC.v1.2.dll" To "C:\ProgramData\VEGAS Pro\Appli
 
 or "C:\Users\\%USERNAME%\Documents\Vegas Application Extensions", 
 
-
-Run VEGAS, Menu View-->Extensions-->Set CC Tools.
+* Run VEGAS, Menu View-->Extensions-->Set CC Tools.
 
 
 Thanks for using the self-made subtitles added to the timeline tool by kindkind.
